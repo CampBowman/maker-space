@@ -24,7 +24,7 @@ This repository is organized to support two different types of makers:
 ### 1. The "Quick Maker" (Using Templates)
 If you want to experience the magic of laser cutting without the complexity of graphic design, we have provided ready-to-go templates.
 *   **Where to find them:** Navigate to the `/laser` directory.
-*   **How to use:** Download the `.lbrn2` (LightBurn) files. These are pre-configured for our machine. You can open them in LightBurn and simply change the text to your name before cutting.
+*   **How to use:** Download the `.lbrn2` (LightBurn) files. These are pre-configured for our machine. You can open them in LightBurn and simply change the text to your name before cutting. Note: text is generally easier to enter in Lightburn after importing SVGs
 
 ### 2. The "Designer" (Custom Projects)
 If you want to create your own unique badge or design, you are encouraged to create your own vector files.
