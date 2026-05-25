@@ -28,12 +28,17 @@ If you want to experience the magic of laser cutting without the complexity of g
 
 ### 2. The "Designer" (Custom Projects)
 If you want to create your own unique badge or design, you are encouraged to create your own vector files.
-*   **Software:** We recommend using vector-based software (like Inkscape, Illustrator, or Gravit Designer).
-*   **Workflow:** Design your shape, export it as an `.svg`, and bring it to the station to be imported into LightBurn.
+*   **Software:** We recommend using vector-based software (like Inkscape, Illustrator).
+*   **Workflow:**
+**   Ensure you have the dimensions and material that you will be cutting, If unsure check with the handicraft staff. Keep in mind new materials may require experimentation to properly cut/etch. Extra material may be required.
+**   Design your shape
+**   export it as an `.svg`
+**   Work with the handicraft staff bring to load your design into LightBurn and cut
 
 ---
 
 ## 📂 Directory Structure
-* `/laser` — Contains LightBurn template files (`.lbrn2`) for quick nametag production.
+* `/laser/Templates` — Contains LightBurn template files (`.lbrn2`) for quick start
+* `/laser/Machines` — Specific information about the makerspace lasers
 
 **Remember: A Scout is Prepared. Always follow the safety instructions provided by the Maker Space instructor before operating any equipment.**
