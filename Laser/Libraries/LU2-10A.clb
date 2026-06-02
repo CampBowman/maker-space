@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="LU2-10A">
     <Material name="Plywood">
-        <Entry Thickness="1.0000" Desc="Cut">
+        <Entry Thickness="2.7500" Desc="Cut">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="Plywood/1.0000/Cut"/>
+                <LinkPath Value="Plywood/2.7500/Cut"/>
                 <maxPower Value="85"/>
                 <maxPower2 Value="20"/>
                 <speed Value="6.66667"/>
-                <tabsEnabled Value="6"/>
+                <numPasses Value="6"/>
+                <tabsEnabled Value="1"/>
+                <priority Value="0"/>
+                <manualTabs Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="2"/>
+                <limitMaxTabs Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="5.5000" Desc="Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Plywood/5.5000/Cut"/>
+                <maxPower Value="85"/>
+                <maxPower2 Value="20"/>
+                <speed Value="6.66667"/>
+                <numPasses Value="11"/>
+                <tabsEnabled Value="1"/>
                 <priority Value="0"/>
                 <manualTabs Value="0"/>
                 <tabCount Value="1"/>
