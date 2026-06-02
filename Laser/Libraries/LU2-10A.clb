@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary DisplayName="LU2-10A">
-    <Material name="Cardboard">
+    <Material name="Plywood">
         <Entry Thickness="1.0000" Desc="Cut">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="Cardboard/1.0000/Cut"/>
-                <maxPower Value="100"/>
+                <LinkPath Value="Plywood/1.0000/Cut"/>
+                <maxPower Value="85"/>
                 <maxPower2 Value="20"/>
-                <speed Value="8.33333"/>
-                <tabsEnabled Value="1"/>
+                <speed Value="6.66667"/>
+                <tabsEnabled Value="6"/>
                 <priority Value="0"/>
+                <manualTabs Value="0"/>
                 <tabCount Value="1"/>
-                <tabCountMax Value="1"/>
+                <tabCountMax Value="2"/>
+                <limitMaxTabs Value="1"/>
             </CutSetting>
         </Entry>
         <Entry Thickness="-1.0000" Desc="Vector Engrave">
             <CutSetting type="Cut">
                 <index Value="0"/>
                 <name Value=""/>
-                <LinkPath Value="Cardboard/-1.0000/Vector Engrave"/>
-                <maxPower Value="100"/>
+                <LinkPath Value="Plywood/-1.0000/Vector Engrave"/>
+                <maxPower Value="50"/>
                 <maxPower2 Value="20"/>
-                <speed Value="58.3333"/>
+                <speed Value="20"/>
                 <subname Value="Cut"/>
                 <priority Value="0"/>
                 <manualTabs Value="0"/>
