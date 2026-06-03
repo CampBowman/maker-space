@@ -28,7 +28,7 @@ If you want to experience the magic of laser cutting without the complexity of g
 
 ### 2. The "Designer" (Custom Projects)
 If you want to create your own unique badge or design, you are encouraged to create your own vector files.
-*   **Software:** We recommend using vector-based software (like Inkscape, Illustrator). Simple designs can be done in Lightburn.
+*   **Software:** We recommend using vector-based software (like Inkscape, Illustrator). Simple designs can be done in Lightburn. Text in a laser design can be tricky, most fonts don't render as you might expect. Lightburn should be used to add any text before the final cut.
 *   **Workflow:**
 **   Ensure you have the dimensions and material that you will be cutting, If unsure check with the handicraft staff. Keep in mind new materials may require experimentation to properly cut/etch. Extra material will be required.
 **   Design your shape
