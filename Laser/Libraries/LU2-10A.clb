@@ -9,7 +9,7 @@
                 <maxPower Value="85"/>
                 <maxPower2 Value="20"/>
                 <speed Value="6.66667"/>
-                <numPasses Value="6"/>
+                <numPasses Value="2"/>
                 <tabsEnabled Value="1"/>
                 <priority Value="0"/>
                 <manualTabs Value="0"/>
